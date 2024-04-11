@@ -1,7 +1,7 @@
 {
-  "name": "algocode-problem-service",
+  "name": "hashcode-problem-service",
   "version": "1.0.0",
-  "description": "This is an admin service to manage problems of algocode platoform.",
+  "description": "This is an admin service to manage problems of hashcode platform.",
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon src/index.js"

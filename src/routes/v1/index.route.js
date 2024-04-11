@@ -1,6 +1,6 @@
 const express = require("express");
 
-const problemRouter = require("./problems.route");
+const problemRouter = require("./problem.route");
 
 const v1Router = express.Router();
 
